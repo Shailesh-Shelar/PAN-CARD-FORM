@@ -1,0 +1,19 @@
+.def{
+    font-weight: bold;
+     margin:10px 10px 10px 10px; 
+    /* padding : 10px 10px 10px 10px; */
+    
+
+}
+.rad{
+    margin-right: 650px;
+}
+body{
+    background-color: whitesmoke;
+}
+.hed{
+   background-color: red;
+   margin: 20px 20px 20px 20px;
+   color: white;
+
+}
